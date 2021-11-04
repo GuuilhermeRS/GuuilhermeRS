@@ -1,7 +1,8 @@
 ### Hello World, eu sou o Guilherme Rodrigues 👋
-
-- 🔭 Trabalho como Professor de Informática
-- 🌱 Estudando NodeJS e ReactJS
+<div>
+  <p>-👨🏽‍🏫 Trabalho como Professor de Informática</p>
+  <p>-👨🏽‍💻 Estudando NodeJS e ReactJS</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/guuilhermers">
